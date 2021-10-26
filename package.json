@@ -1,5 +1,5 @@
 {
-  "name": "@netlify/jamstackconf2021-swag",
+  "name": "swag-app",
   "version": "0.0.1",
   "private": true,
   "scripts": {
